@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyCoWorkers</string>
+    <string name="creator_name">Angelia Widjaja</string>
+    <string name="creator_email">angeliawidjajaa@gmail.com</string>
+    <string name="creator_phone">+6281289693035</string>
+    <string name="app_description">
+        Aplikasi MyCoWorkers merupakan sebuah aplikasi yang digunakan sebagai penunjang fasilitas dari HRD untuk bisa memperoleh informasi rekan kerja dan mempermudah akses komunikasi antar rekan kerja.\n\nAplikasi MyCoWorkers ditujukan untuk perusahaan besar yang memiliki banyak karyawan.\n\nDengan menggunakan aplikasi MyCoWorkers, pengguna dapat melakukan pencarian informasi setiap karyawan yang ada di perusahaan, seperti id, nama, divisi, posisi, lokasi kerja, dan kontak rekan yang bisa dihubungi.\n</string>
+    <string name="app_description_title">App Description</string>
+    <string name="worker_id">Worker ID</string>
+    <string name="full_name">Full Name</string>
+    <string name="division">Division</string>
+    <string name="office_location">Office Location</string>
+    <string name="floor_location">Floor Location</string>
+    <string name="job_roles">Job Roles:</string>
+    <string name="info_data">*Data yang ditampilkan pada aplikasi ini bersifat fiktif dan digunakan sebagai contoh data saja.</string>
+</resources>
